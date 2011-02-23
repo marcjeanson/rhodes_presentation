@@ -1,0 +1,7 @@
+{ 
+  "name": "Cross-Platform Mobile App Development with Ruby", 
+  "sections": [ 
+    {"section":"intro"},
+    {"section":"conclusion"} 
+  ]
+}
