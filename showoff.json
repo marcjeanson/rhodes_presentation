@@ -1,7 +1,1 @@
-{ 
-  "name": "Cross-Platform Mobile App Development with Ruby", 
-  "sections": [ 
-    {"section":"intro"},
-    {"section":"conclusion"} 
-  ]
-}
+{"section":"cross_platform_intro","name":"Cross-Platform Mobile App Development with Ruby","sections":[{"section":"intro"},{"section":"cross_platform_intro"},{"section":"rhomobile"},{"section":"conclusion"}]}

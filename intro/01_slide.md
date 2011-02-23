@@ -4,16 +4,9 @@
 ## Marc Jeanson
 ## @marcjeanson 
 
-<br />
+<br/>
 
 ## Winnipeg Ruby User Group
 ## February 2011
 
 ![Redline logo](redline.png) redlinesoftware.com
-
-!SLIDE bullets incremental
-# Bullet Points #
-
-* first point
-* second point
-* third point
